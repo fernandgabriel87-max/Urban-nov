@@ -1,0 +1,5 @@
+{
+  "name": "Product & Autodesk Studio",
+  "description": "An app to edit product photos and analyze Autodesk files for errors using AI instructions.",
+  "requestFramePermissions": []
+}
